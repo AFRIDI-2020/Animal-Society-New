@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/pet_lover/MainActivity.java
+ com.example.pet_lover.MainActivity
+com/example/pet_lover/BuildConfig.java
+ com.example.pet_lover.BuildConfig
